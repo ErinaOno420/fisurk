@@ -12,7 +12,7 @@ Modern • Elegant • Animated • GitHub Safe
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Developer+from+Singapore;React+%7C+Next.js+%7C+Node.js+Expert;Building+Elegant+Scalable+Systems;Modern+UI%2FUX+and+High-Performance+Architecture;Transforming+Ideas+into+Digital+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Developer+from+Japan;React+%7C+Next.js+%7C+Node.js+Expert;Building+Elegant+Scalable+Systems;Modern+UI%2FUX+and+High-Performance+Architecture;Transforming+Ideas+into+Digital+Experiences" />
 
 </div>
 
