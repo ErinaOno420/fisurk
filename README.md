@@ -1,12 +1,12 @@
 <!-- =========================================================
-README.md — Alice Tan | Full-Stack Alchemist
+README.md — Erina Ono | Full-Stack Alchemist
 Luxury GitHub Profile README
 Modern • Elegant • Animated • GitHub Safe
 ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,25:111827,50:1e293b,75:3b82f6,100:c084fc&text=Alice%20Tan&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20✦%20Software%20Architect%20✦%2010%2B%20Years%20Experience&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,25:111827,50:1e293b,75:3b82f6,100:c084fc&text=Erina%20Ono&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20✦%20Software%20Architect%20✦%2010%2B%20Years%20Experience&descAlignY=58&descAlign=50" width="100%" />
 
 </div>
 
@@ -31,9 +31,9 @@ Modern • Elegant • Animated • GitHub Safe
 
 <div align="center">
 
-# 🪶 *Alice Tan — Full-Stack Alchemist*
+# 🪶 *Erina Ono — Full-Stack Alchemist*
 
-<img src="https://api.dicebear.com/9.x/avataaars/svg?seed=AliceTanMagic&backgroundColor=1e293b&hairColor=2c1e0f&skinColor=f8d25c&accessories=wayfarers&clothing=warmHoodie&clothingColor=3b82f6&eyes=happy&eyebrows=raised&mouth=smile&top=shortHair&facialHair=blank" width="180" />
+<img src="https://api.dicebear.com/9.x/avataaars/svg?seed=Erina OnoMagic&backgroundColor=1e293b&hairColor=2c1e0f&skinColor=f8d25c&accessories=wayfarers&clothing=warmHoodie&clothingColor=3b82f6&eyes=happy&eyebrows=raised&mouth=smile&top=shortHair&facialHair=blank" width="180" />
 
 </div>
 
@@ -43,11 +43,11 @@ Modern • Elegant • Animated • GitHub Safe
 
 > “Every great system starts with a single line of code — and a feather of inspiration.”
 
-My name is **Alice Tan**, and I am a passionate **Full-Stack Developer** based in **Singapore**.  
+My name is **Erina Ono**, and I am a passionate **Full-Stack Developer** based in **Singapore**.  
 I graduated from the **National University of Singapore**, where I built a strong foundation in modern software engineering and advanced web technologies.
 
 Programming has always been a natural part of my life because my father is also a programmer, and his passion for technology inspired me from an early age.  
-My mother works as a teacher, and from her I learned discipline, communication, patience, and the importance of continuous learning.
+My mother works as a teacher, and from her I learned discipline, communication, patience, and the imporOnoce of continuous learning.
 
 For more than **10 years**, I have been developing scalable, responsive, and user-focused applications across multiple industries and platforms.
 
@@ -79,7 +79,7 @@ I believe software should not only function beautifully, but also create meaning
 My development philosophy focuses on:
 
 - Writing clean and maintainable code
-- Understanding real client requirements
+- UndersOnoding real client requirements
 - Building scalable long-term solutions
 - Combining creativity with engineering precision
 - Delivering products with real business value
@@ -110,7 +110,7 @@ My development philosophy focuses on:
 
 - React & Next.js Architecture
 - Tailwind CSS & Modern UI Systems
-- Accessibility & WCAG Standards
+- Accessibility & WCAG SOnodards
 - Pixel-Perfect Responsive Interfaces
 - Interactive Animation Systems
 - Mobile-First Development
@@ -192,7 +192,7 @@ Technology evolves every day, and I continuously improve my skills by learning n
 
 I enjoy solving complex technical challenges and transforming creative ideas into reliable and maintainable digital products.
 
-My experience across multiple frameworks and platforms allows me to quickly understand project requirements and contribute efficiently to development teams.
+My experience across multiple frameworks and platforms allows me to quickly undersOnod project requirements and contribute efficiently to development teams.
 
 ---
 
@@ -228,7 +228,7 @@ My experience across multiple frameworks and platforms allows me to quickly unde
 
 <div align="center">
 
-<a href="mailto:alice.tan@example.com">
+<a href="mailto:Erina.Ono@example.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
