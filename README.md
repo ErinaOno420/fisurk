@@ -43,13 +43,16 @@ Modern • Elegant • Animated • GitHub Safe
 
 > “Every great system starts with a single line of code — and a feather of inspiration.”
 
-My name is **Erina Ono**, and I am a passionate **Full-Stack Developer** based in **Singapore**.  
-I graduated from the **National University of Singapore**, where I built a strong foundation in modern software engineering and advanced web technologies.
+Senior Full-Stack Developer
 
-Programming has always been a natural part of my life because my father is also a programmer, and his passion for technology inspired me from an early age.  
-My mother works as a teacher, and from her I learned discipline, communication, patience, and the imporOnoce of continuous learning.
+Senior Full-Stack Developer | React TypeScript Node.js
 
-For more than **10 years**, I have been developing scalable, responsive, and user-focused applications across multiple industries and platforms.
+✦ AVAILABLE FOR REMOTE & FREELANCE PROJECTS
+
+Senior Full-Stack Developer based in Japan with 6+ years of experience building scalable web applications, SaaS
+products, and client-facing platforms for startups and international teams. Strong in React, TypeScript, Node.js, and
+modern cloud delivery. Known for clean architecture, reliable freelance delivery, and clear communication across English
+and Japanese stakeholders with measurable impact on performance, conversion, and release quality.
 
 I specialize in creating modern full-stack solutions that combine:
 
